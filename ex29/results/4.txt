@@ -1,0 +1,16 @@
+--  --------  ---------
+ 0  Nancy     Davolio
+ 1  Nancy     Davolio
+ 2  Nancy     Davolio
+ 3  Andrew    Fuller
+ 4  Janet     Leverling
+ 5  Janet     Leverling
+ 6  Janet     Leverling
+ 7  Janet     Leverling
+ 8  Margaret  Peacock
+ 9  Margaret  Peacock
+10  Margaret  Peacock
+11  Steven    Buchanan
+12  Laura     Callahan
+13  Anne      Dodsworth
+--  --------  ---------

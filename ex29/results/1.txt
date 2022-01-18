@@ -1,0 +1,80 @@
+--  --  --------------------------------
+ 0  78  batata doce
+ 1   3  Aniseed Syrup
+ 2  21  Sir Rodney's Scones
+ 3  74  Longlife Tofu
+ 4  46  Spegesild
+ 5  31  Gorgonzola Telino
+ 6  68  Scottish Longbreads
+ 7  48  Chocolade
+ 8  29  Thüringer Rostbratwurst
+ 9  77  Original Frankfurter grüne Soße
+10  58  Escargots de Bourgogne
+11  25  NuNuCa Nuß-Nougat-Creme
+12  34  Sasquatch Ale
+13  42  Singaporean Hokkien Fried Mee
+14  67  Laughing Lumberjack Lager
+15  70  Outback Lager
+16  73  Röd Kaviar
+17  15  Genen Shouyu
+18  50  Valkoinen suklaa
+19  66  Louisiana Hot Spiced Okra
+20  16  Pavlova
+21   1  Chai
+22  35  Steeleye Stout
+23  39  Chartreuse verte
+24  76  Lakkalikööri
+25  40  Boston Crab Meat
+26   2  Chang
+27  36  Inlagd Sill
+28  44  Gula Malacca
+29  57  Ravioli Angelo
+30  33  Geitost
+31  49  Maxilaku
+32  11  Queso Cabrales
+33  22  Gustaf's Knäckebröd
+34  65  Louisiana Fiery Hot Pepper Sauce
+35   5  Chef Anton's Gumbo Mix
+36  71  Fløtemysost
+37   4  Chef Anton's Cajun Seasoning
+38  14  Tofu
+39  55  Pâté chinois
+40   6  Grandma's Boysenberry Spread
+41  30  Nord-Ost Matjeshering
+42  37  Gravad lax
+43  38  Côte de Blaye
+44  61  Sirop d'érable
+45   7  Uncle Bob's Organic Dried Pears
+46  10  Ikura
+47  26  Gumbär Gummibärchen
+48  32  Mascarpone Fabioli
+49  53  Perth Pasties
+50  64  Wimmers gute Semmelknödel
+51  60  Camembert Pierrot
+52  72  Mozzarella di Giovanni
+53  69  Gudbrandsdalsost
+54  12  Queso Manchego La Pastora
+55  56  Gnocchi di nonna Alice
+56  17  Alice Mutton
+57  24  Guaraná Fantástica
+58   8  Northwoods Cranberry Sauce
+59  27  Schoggi Schokolade
+60  63  Vegie-spread
+61  28  Rössle Sauerkraut
+62  43  Ipoh Coffee
+63  62  Tarte au sucre
+64  51  Manjimup Dried Apples
+65  59  Raclette Courdavault
+66  13  Konbu
+67  18  Carnarvon Tigers
+68  52  Filo Mix
+69  54  Tourtière
+70  75  Rhönbräu Klosterbier
+71  20  Sir Rodney's Marmalade
+72  23  Tunnbröd
+73  19  Teatime Chocolate Biscuits
+74  45  Røgede sild
+75  47  Zaanse koeken
+76  41  Jack's New England Clam Chowder
+77   9  Mishi Kobe Niku
+--  --  --------------------------------
